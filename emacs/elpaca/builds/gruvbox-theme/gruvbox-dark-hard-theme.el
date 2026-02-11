@@ -1,0 +1,1 @@
+/home/me/.config/emacs/elpaca/repos/emacs-theme-gruvbox/gruvbox-dark-hard-theme.el
